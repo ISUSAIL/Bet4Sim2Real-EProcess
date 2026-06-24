@@ -1,5 +1,7 @@
 # Sim-to-Real Betting on the E-Process
 
+**Preprint:** [arXiv:2606.24038](http://arxiv.org/abs/2606.24038)
+
 Bringing "simulators" to anytime-valid confidence sequences. The notebook
 [`demo.ipynb`](demo.ipynb) implements **Algorithm 1 (Approximate-Kelly betting
 confidence sequence)** and reproduces the bound-width / coverage figures.
